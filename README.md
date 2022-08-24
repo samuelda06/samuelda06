@@ -1,0 +1,5 @@
+-#sobre mim 
+- ola meu nome é @samuelda06
+- :+1: meu email de contato é @samuel.guilhermeandrade.alves@escola.pr.gov.br
+- eu estou interessado em aprender novas linguagens 
+- eu estou aprendendo a programar recentemente a linguagem de javaScrapt e scratch
